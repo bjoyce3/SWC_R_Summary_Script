@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #####################################################################
-# This file performs cleaning operations on country files with errors
+# This file performs cleaning operations on country files with errors- test
 #####################################################################
 cd data/clean
 
